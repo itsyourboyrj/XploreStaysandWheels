@@ -1,8 +1,9 @@
+   ![x](https://github.com/user-attachments/assets/f6d16503-3af3-4af6-a08d-ef8d61cd9453) 
 # Xplorestays and Wheels: Car & Bike Rental Platform (Live Website)
-Xplorestays and Wheels is my own startup , a convenient platform for renting cars and bikes. Easily book self-drive rentals online and explore your destination with ease.
+Xplorestays and Wheels is my own startup , a convenient platform for renting cars and bikes. Easily book self-drive rentals online and explore your destination with ease. 
 
 # About  
-Xplorestays and Wheels empowers you to explore freely with its online car and bike rental platform. Book self-drive rentals in a few clicks and hit the road for unforgettable adventures. ️It is based in a small town near Jalandhar near LPU, Since being a student of the university, i had always faced the issue of booking a seld drive rental, i had to make multiple phone calls and there was a huge tussle to get a car/bike in rent. So i thought to bring a change and made this startup. So enjoy my website take a look, feedbacks are appreciated. Thankyou!!  
+**Xplorestays and Wheels** empowers you to explore freely with its online car and bike rental platform. Book self-drive rentals in a few clicks and hit the road for unforgettable adventures. ️It is based in a small town near Jalandhar near LPU, Since being a student of the university, i had always faced the issue of booking a seld drive rental, i had to make multiple phone calls and there was a huge tussle to get a car/bike in rent. So i thought to bring a change and made this startup. So enjoy my website take a look, feedbacks are appreciated. Thankyou!!  
 
 # Live Website: 
 
