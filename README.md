@@ -4,7 +4,7 @@ Xplorestays and Wheels is my own startup , a convenient platform for renting car
 # About  
 Xplorestays and Wheels empowers you to explore freely with its online car and bike rental platform. Book self-drive rentals in a few clicks and hit the road for unforgettable adventures. ️It is based in a small town near Jalandhar near LPU, Since being a student of the university, i had always faced the issue of booking a seld drive rental, i had to make multiple phone calls and there was a huge tussle to get a car/bike in rent. So i thought to bring a change and made this startup. So enjoy my website take a look, feedbacks are appreciated. Thankyou!!  
 
-#Live Website: 
+# Live Website: 
 
  [XploreStays&Wheels ](https://xplorerentals.in/) 
 
